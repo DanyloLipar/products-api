@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "imageUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuYW5hc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+            "name": "Banana",
+            "count": 4,
+            "size": {
+                "width": 30,
+                "height": 200
+            },
+            "weight": "300g",
+            "comments": [
+                {
+                    "id": 1,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "17:00 22.08.2021"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://media.istockphoto.com/photos/red-apple-picture-id184276818?k=20&m=184276818&s=612x612&w=0&h=QxOcueqAUVTdiJ7DVoCu-BkNCIuwliPEgtAQhgvBA_g=",
+            "name": "Apple",
+            "count": 1,
+            "size": {
+                "width": 40,
+                "height": 40
+            },
+            "weight": "50g",
+            "comments": [
+                {
+                    "id": 1,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 2,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "14:00 22.08.2021"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-1200.jpg",
+            "name": "Carrot",
+            "count": 2,
+            "size": {
+                "width": 20,
+                "height": 200
+            },
+            "weight": "200g",
+            "comments": [
+                {
+                    "id": 1,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 2,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "14:00 22.08.2021"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://post.healthline.com/wp-content/uploads/2020/09/AN88-Cucumbers-732x549-thumb-1-732x549.jpg",
+            "name": "Cucumber",
+            "count": 4,
+            "size": {
+                "width": 20,
+                "height": 300
+            },
+            "weight": "500g",
+            "comments": [
+                {
+                    "id": 1,
+                    "productId": 1,
+                    "description": "some text here",
+                    "date": "14:00 22.08.2021"
+                }
+            ]
+        }
+    ]
+}
